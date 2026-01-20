@@ -3,3 +3,4 @@ const add = (a: number, b: number, c: number) => {
 };
 
 console.log(add(2, 3, 4));
+console.log("hi im just testing ");
